@@ -4,7 +4,7 @@ description: Nepali IoT page for learning resources on IoT and my notes for IoT
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "https://nepaliot.github.io" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://nepaliot.github.io" # the base hostname & protocol for your site
 
 pagination:
