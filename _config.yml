@@ -50,8 +50,8 @@ lsi: False
 username: arjankc #github username
 repo: https://github.com/nepaliot/nepaliot.github.io/ #github repository
 branch: master #branch
-relative_source: ../ #source directory
-destination: ../ #destination directory
+relative_source: ../nepaliot.github.io/ #source directory
+destination: ../_posts/ #destination directory
 production_url:  https://nepaliot.github.io/
 source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
