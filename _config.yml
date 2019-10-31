@@ -53,7 +53,7 @@ branch: master #branch
 relative_source: ../nepaliot.github.io/ #source directory
 destination: ../_posts/ #destination directory
 production_url:  https://nepaliot.github.io/
-source_url:  https://github.com/samanyougarg/hanuman #source repository url
+source_url:  https://github.com/nepaliot/nepaliot.github.io/ #source repository url
 
 exclude:
   - README.md
