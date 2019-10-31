@@ -18,9 +18,9 @@ pagination:
   per_page: 5
 
 # Social
-facebook: facebook.com/aarzan
-twitter: twitter.com/kc_rzn
-github:  https://github.com/arjankc
+facebook: aarzan
+twitter: kc_rzn
+github:  arjankc
 
 #Additional Pages
 about: about
@@ -48,7 +48,7 @@ plugins:
 safe: False
 lsi: False
 username: arjankc #github username
-repo: https://github.com/nepaliot/nepaliot.github.io #github repository
+repo: https://github.com/nepaliot/nepaliot.github.io/ #github repository
 branch: master #branch
 relative_source: ../ #source directory
 destination: ../ #destination directory
